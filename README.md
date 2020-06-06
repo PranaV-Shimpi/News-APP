@@ -1,4 +1,4 @@
-# News Application using React JS | Node.js | LowDB | REST API
+# News App
 
 This web application involves building a simple news application which fetches news articles from an external api vendor and display them in web application
 
@@ -8,12 +8,6 @@ This web application involves building a simple news application which fetches n
 * Allowed the user to save articles for future reference. The user can also view the list of saved articles
 
 <img src="reactjs-nodejs-newsapi.gif?raw=true" width="100%">
-
-### List of Pages and How to use the Application
-* Login Page -> The user can login into the application
-* List of Sources -> The application lists down a total of 129 news sources. User has the option to select their own  news sources by clicking on either **Add Source** / **Remove Source** button. Once the user select a news source, the title of the source turns into a link, and clicking on that will redirect the user to the articles page where the top 10 articles for that particular source is listed
-* List of Saved Articles -> Lists down the articles saved by the user
-* Top 10 Articles -> Lists down top 10 articles of a particular source. Allows the user to save any article of their choice
 
 ## Steps to Setup and Run the Application
 
@@ -44,13 +38,4 @@ node index.js
 ```sh
 npm start
 ```
-
-4. Open your browser and go to [http://localhost:3000/](http://localhost:3000/)
-
-### Technologies Used
-
-* Node.js
-* React JS
-* LowDB
-* REST API
 
