@@ -38,4 +38,7 @@ node index.js
 ```sh
 npm start
 ```
+## For any queries/doubts:
+
+:envelope: 23pranavshimpi@gmail.com :thumbsup:
 
